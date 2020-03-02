@@ -6,7 +6,11 @@ The language contains two tokens to represent each state: happy or sad:
 
 ## Happy
 
+![smile token](smile.png)
+
 ## Sad
+
+![frown token](frown.png)
 
 # Take over
 
